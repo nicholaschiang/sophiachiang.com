@@ -1,2 +1,2 @@
 # Sophia Chiang
-Home|Music|Art|Travel|Sport|Resume|Contact
+Home | Music | Art | Travel | Sport | Resume | Contact
