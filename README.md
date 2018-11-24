@@ -1,2 +1,2 @@
-# sophiachiang.com
-Sister's website
+# Sophia Chiang
+Home|Music|Art|Travel|Sport|Resume|Contact
