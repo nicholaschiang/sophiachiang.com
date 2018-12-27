@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Resume
+date: 2018-12-26
 ---
 ## Experience
 ### AppZen, Palo Alto — Intern, Data Science
